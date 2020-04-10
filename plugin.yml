@@ -2,6 +2,7 @@ name: AntiHack
 main: MasApip\AntiNuke\Main
 version: 1.0.0
 api: [3.0.0]
+author: pmmp
 
 permission:
   antinuke.notice:
