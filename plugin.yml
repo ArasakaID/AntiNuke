@@ -1,0 +1,9 @@
+name: AntiHack
+main: MasApip\AntiNuke\Main
+version: 1.0.0
+api: [3.0.0]
+
+permission:
+  antinuke.notice:
+    default: false
+    description: To see notification by AntiNuke
